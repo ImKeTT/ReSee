@@ -1,0 +1,4 @@
+{
+    "DATA_DIR": "/data/tuhq/multimodal",
+    "CACHE_DIR": "/data/tuhq/.cache/torch/transformers"
+}

@@ -1,0 +1,2 @@
+CUDA_VISIBLE_DEVICES=0 python3 dialogpt2.py --dataset wow --model_name gpt2-medium --load gpt2-medium_wow_trunc_250 &&\
+CUDA_VISIBLE_DEVICES=0 python3 dialogpt2.py --dataset dd --model_name gpt2-medium --load gpt2-medium_dd_trunc_200

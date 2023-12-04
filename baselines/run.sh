@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=1 python3 dialogpt2.py --dataset wow --model_name microsoft/DialoGPT-medium --load microsoft-DialoGPT-medium_wow_trunc_190

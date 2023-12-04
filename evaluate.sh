@@ -1,0 +1,3 @@
+python3 evaluate.py --eval_file train_t5-base_DD_concat_e25_res-mlm-False_Ebias-False_lr0.001_seqlen208_res35_bs22_loadFalse_cap0_ent1_eda0_kl0_ev5_10.19/test_out-best_eval-topk1-topp0.1.tsv --out_to_file &&\
+python3 evaluate.py --eval_file train_t5-base_DD_concat_e25_res-mlm-False_Ebias-False_lr0.001_seqlen200_res35_bs25_loadFalse_cap0_ent1_eda0_kl0_ev3_10.18/test_out-best_eval-topk1-topp0.1.tsv --out_to_file &&\
+python3 evaluate.py --eval_file train_t5-base_DD_concat_e25_res-mlm-False_Ebias-False_lr0.005_seqlen181_res35_bs22_loadFalse_cap0_ent0_eda0_kl0_ev2_10.14/test_out-best_eval-topk1-topp0.1.tsv --out_to_file
